@@ -18,12 +18,13 @@ cs_g5p1
 Our dataset provides information on motor vehicle operators involved in traffic collisions occurring on county and local roadways within Montgomery County, as collected via the Automated Crash Reporting System (ACRS) of the Maryland State Police, and reported by the Montgomery County Police, Gaithersburg Police, Rockville Police, or the Maryland-National Capital Park Police. We obtained our dataset from https://catalog.data.gov/dataset, and our specific data can be found at https://catalog.data.gov/dataset/crash-reporting-drivers-data. While our dataset contains numerous data types, some of they key metrics it records are crash date and time, road where the crash occurred, collision type, weather, light level, injuries, vehicle information and damage, and more. Each row of the dataset represents a reported traffic collision.
 ## Analysis of Questions
 
-### Question 1
+### What are the three most dangerous times of day (when you are most likely to get into a crash) and under what weather circumstances are there the most crashes in Montgomery County? 
 #### [filler]
 
 Importance
 
-### Question 2
+### What kind of collision type (where in the car was there damage) resulted in the greatest amount of “suspected minor  injuries” in the county? 
+
 #### [filler]
 
 Importance
