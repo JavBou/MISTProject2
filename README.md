@@ -21,11 +21,20 @@ Our dataset provides information on motor vehicle operators involved in traffic 
 ### What are the three most dangerous times of day (when you are most likely to get into a crash) and under what weather circumstances are there the most crashes in Montgomery County? 
 #### [filler]
 
+<img width="1440" alt="Screenshot 2023-12-06 at 18 23 24" src="https://github.com/JavBou/MISTProject2/assets/149448019/603da3f3-482a-4568-8853-da381e28632b">
+
+
+
+
 Importance
 
 ### What kind of collision type (where in the car was there damage) resulted in the greatest amount of “suspected minor  injuries” in the county? 
 
 #### [filler]
+
+
+<img width="1440" alt="Screenshot 2023-12-06 at 18 13 32" src="https://github.com/JavBou/MISTProject2/assets/149448019/71f86402-e3a1-4e5f-b607-f9a5c8347e76">
+
 
 Importance
 
