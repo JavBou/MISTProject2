@@ -19,18 +19,18 @@ Our dataset provides information on motor vehicle operators involved in traffic 
 ## Analysis of Questions
 
 ### Question 1
-#### In Boston, what is?
+#### [filler]
 
 Importance
 
 ### Question 2
-#### In Boston, what is?
+#### [filler]
 
 Importance
 
 ## Data Manipulation
 
-getting rid of weird column entries
+[filler]
 ## Analysis and Results
 
 ### Player Table
