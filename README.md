@@ -40,24 +40,6 @@ Importance
 
 ## Data Manipulation
 
-[filler]
-## Analysis and Results
 
-### Player Table
-
-![Table 1](https://i.imgur.com/tWV94u9.png)
-
-### Scouting Reports Table
-
-![Table 2](https://i.imgur.com/jJwlYbs.png)
-
-### Injuries Table
-
-![Table 3](https://i.imgur.com/Rdd1Hsi.png)
-
-### Contracts Table
-
-![Table 4](https://i.imgur.com/sFfdWMb.png)
-## Tableau Packaged Workbook
 
 #### The packaged workbook containing the visualizations shown above is attached to this repository.
